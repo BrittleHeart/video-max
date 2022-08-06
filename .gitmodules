@@ -1,3 +1,6 @@
 [submodule "video-max-backend"]
 	path = video-max-backend
 	url = https://github.com/BrittleHeart/video-max-backend.git
+[submodule "video-max-frontend"]
+	path = video-max-frontend
+	url = https://github.com/BrittleHeart/video-max-frontend.git
